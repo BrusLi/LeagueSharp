@@ -7,8 +7,8 @@
     <ProjectGuid>{99E6A469-CF6C-42A7-AACC-BF15F45AC0AB}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>AhriSharp</RootNamespace>
-    <AssemblyName>AhriSharp</AssemblyName>
+    <RootNamespace>Ahri</RootNamespace>
+    <AssemblyName>Ahri</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <PreBuildEvent />
